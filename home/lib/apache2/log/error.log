@@ -1,0 +1,116 @@
+[Sat Feb 24 16:44:11.924186 2018] [mpm_prefork:notice] [pid 3169] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Sat Feb 24 16:44:11.924301 2018] [core:notice] [pid 3169] AH00094: Command line: 'apache2'
+[Sat Feb 24 16:44:12.652596 2018] [core:info] [pid 3207] [client 10.240.1.20:42942] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://portfolio-firdauskotp.c9users.io/Main.html
+[Sun Feb 25 00:03:08.977662 2018] [mpm_prefork:notice] [pid 3169] AH00169: caught SIGTERM, shutting down
+[Sun Feb 25 00:03:11.492580 2018] [mpm_prefork:notice] [pid 4864] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Sun Feb 25 00:03:11.492643 2018] [core:notice] [pid 4864] AH00094: Command line: 'apache2'
+[Sun Feb 25 00:03:17.928326 2018] [core:info] [pid 4871] [client 10.240.1.191:59082] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://portfolio-firdauskotp.c9users.io/Main.html
+[Mon Feb 26 03:35:32.657397 2018] [core:info] [pid 4875] [client 10.240.1.191:39548] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://portfolio-firdauskotp.c9users.io/Main.html
+[Thu Mar 01 14:49:58.492680 2018] [core:warn] [pid 4789] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 01 14:49:58.498364 2018] [mpm_prefork:notice] [pid 4789] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Mar 01 14:49:58.498419 2018] [core:notice] [pid 4789] AH00094: Command line: 'apache2'
+[Thu Mar 01 14:50:07.189344 2018] [core:info] [pid 4803] [client 10.240.0.25:33368] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://portfolio-firdauskotp.c9users.io/Main.html
+[Thu Mar 01 17:20:13.437378 2018] [mpm_prefork:notice] [pid 4789] AH00169: caught SIGTERM, shutting down
+[Thu Mar 01 17:20:14.830174 2018] [mpm_prefork:notice] [pid 8621] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Mar 01 17:20:14.830266 2018] [core:notice] [pid 8621] AH00094: Command line: 'apache2'
+[Fri Mar 02 08:27:49.868476 2018] [mpm_prefork:notice] [pid 8621] AH00169: caught SIGTERM, shutting down
+[Fri Mar 02 08:27:52.107304 2018] [mpm_prefork:notice] [pid 10932] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Mar 02 08:27:52.107387 2018] [core:notice] [pid 10932] AH00094: Command line: 'apache2'
+[Fri Mar 02 08:28:01.565879 2018] [core:info] [pid 10939] [client 10.240.1.191:41254] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://portfolio-firdauskotp.c9users.io/Main.html
+[Fri Mar 02 14:58:32.817728 2018] [mpm_prefork:notice] [pid 10932] AH00169: caught SIGTERM, shutting down
+[Fri Mar 02 14:58:34.973292 2018] [mpm_prefork:notice] [pid 13547] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Mar 02 14:58:34.973362 2018] [core:notice] [pid 13547] AH00094: Command line: 'apache2'
+[Fri Mar 02 14:58:48.630846 2018] [core:info] [pid 13554] [client 10.240.1.65:53046] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://portfolio-firdauskotp.c9users.io/Main.html
+[Sat Mar 03 09:57:45.699405 2018] [mpm_prefork:notice] [pid 13547] AH00169: caught SIGTERM, shutting down
+[Sat Mar 03 09:57:47.916073 2018] [mpm_prefork:notice] [pid 16610] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Sat Mar 03 09:57:47.916144 2018] [core:notice] [pid 16610] AH00094: Command line: 'apache2'
+[Sat Mar 03 09:57:55.413890 2018] [core:info] [pid 16617] [client 10.240.1.30:41080] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://portfolio-firdauskotp.c9users.io/Main.html
+[Mon Mar 05 07:59:52.325909 2018] [core:info] [pid 16620] [client 10.240.1.20:52102] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://portfolio-firdauskotp.c9users.io/Main.html
+[Thu Mar 08 07:27:41.701156 2018] [core:warn] [pid 3613] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 08 07:27:41.707242 2018] [mpm_prefork:notice] [pid 3613] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Mar 08 07:27:41.707282 2018] [core:notice] [pid 3613] AH00094: Command line: 'apache2'
+[Thu Mar 08 07:27:52.951222 2018] [core:info] [pid 3626] [client 10.240.1.65:37012] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://portfolio-firdauskotp.c9users.io/Main.html
+[Fri Mar 09 12:32:48.311021 2018] [mpm_prefork:notice] [pid 3613] AH00169: caught SIGTERM, shutting down
+[Fri Mar 09 12:32:52.109755 2018] [mpm_prefork:notice] [pid 6057] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Mar 09 12:32:52.109841 2018] [core:notice] [pid 6057] AH00094: Command line: 'apache2'
+[Fri Mar 09 12:32:54.471921 2018] [mpm_prefork:notice] [pid 6057] AH00169: caught SIGTERM, shutting down
+[Fri Mar 09 12:32:58.503120 2018] [mpm_prefork:notice] [pid 6584] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Mar 09 12:32:58.503193 2018] [core:notice] [pid 6584] AH00094: Command line: 'apache2'
+[Fri Mar 09 12:33:06.529879 2018] [core:info] [pid 6591] [client 10.240.0.25:36892] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://portfolio-firdauskotp.c9users.io/Main.html
+[Thu Mar 29 06:00:46.445780 2018] [core:warn] [pid 3314] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 29 06:00:46.456767 2018] [mpm_prefork:notice] [pid 3314] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Mar 29 06:00:46.456892 2018] [core:notice] [pid 3314] AH00094: Command line: 'apache2'
+[Thu Mar 29 06:00:52.216786 2018] [core:info] [pid 3333] [client 10.240.1.50:54116] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://portfolio-firdauskotp.c9users.io/Main.html
+[Wed Apr 04 04:37:28.556630 2018] [core:warn] [pid 2150] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Apr 04 04:37:28.568957 2018] [mpm_prefork:notice] [pid 2150] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Wed Apr 04 04:37:28.569041 2018] [core:notice] [pid 2150] AH00094: Command line: 'apache2'
+[Wed Apr 04 04:37:33.983652 2018] [core:info] [pid 2163] [client 10.240.1.191:39456] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://portfolio-firdauskotp.c9users.io/Main.html
+[Fri Apr 06 09:35:29.167399 2018] [core:warn] [pid 3839] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Apr 06 09:35:29.175537 2018] [mpm_prefork:notice] [pid 3839] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 09:35:29.175605 2018] [core:notice] [pid 3839] AH00094: Command line: 'apache2'
+[Fri Apr 06 09:35:32.747091 2018] [core:info] [pid 3856] [client 10.240.0.64:55856] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://portfolio-firdauskotp.c9users.io/Main.html
+[Mon Apr 09 08:08:04.291892 2018] [core:warn] [pid 3852] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 09 08:08:04.303102 2018] [mpm_prefork:notice] [pid 3852] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Mon Apr 09 08:08:04.303219 2018] [core:notice] [pid 3852] AH00094: Command line: 'apache2'
+[Mon Apr 09 08:08:09.467085 2018] [core:info] [pid 3862] [client 10.240.0.25:50668] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://portfolio-firdauskotp.c9users.io/Main.html
+[Tue Apr 10 05:02:45.470085 2018] [mpm_prefork:notice] [pid 3852] AH00169: caught SIGTERM, shutting down
+[Tue Apr 10 05:02:48.108567 2018] [mpm_prefork:notice] [pid 5522] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue Apr 10 05:02:48.108689 2018] [core:notice] [pid 5522] AH00094: Command line: 'apache2'
+[Tue Apr 10 05:02:55.850486 2018] [core:info] [pid 5529] [client 10.240.1.191:34064] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://portfolio-firdauskotp.c9users.io/Main.html
+[Tue Apr 10 05:03:19.719818 2018] [core:info] [pid 5530] [client 10.240.0.64:40838] AH00128: File does not exist: /home/ubuntu/workspace/https:/portfolio-firdauskotp.c9users.io/
+[Wed Apr 11 13:12:25.896165 2018] [core:warn] [pid 2541] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Apr 11 13:12:25.922281 2018] [mpm_prefork:notice] [pid 2541] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Wed Apr 11 13:12:25.922369 2018] [core:notice] [pid 2541] AH00094: Command line: 'apache2'
+[Wed Apr 11 13:12:30.674789 2018] [mpm_prefork:notice] [pid 2541] AH00169: caught SIGTERM, shutting down
+[Wed Apr 11 13:12:32.168503 2018] [mpm_prefork:notice] [pid 3919] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Wed Apr 11 13:12:32.168644 2018] [core:notice] [pid 3919] AH00094: Command line: 'apache2'
+[Fri Apr 20 02:28:54.534733 2018] [core:warn] [pid 2709] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Apr 20 02:28:54.593578 2018] [mpm_prefork:notice] [pid 2709] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 20 02:28:54.593719 2018] [core:notice] [pid 2709] AH00094: Command line: 'apache2'
+[Fri Apr 20 02:28:58.730237 2018] [mpm_prefork:notice] [pid 2709] AH00169: caught SIGTERM, shutting down
+[Fri Apr 20 02:29:00.958449 2018] [mpm_prefork:notice] [pid 3324] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 20 02:29:00.958535 2018] [core:notice] [pid 3324] AH00094: Command line: 'apache2'
+[Fri Apr 20 02:29:05.531718 2018] [mpm_prefork:notice] [pid 3324] AH00169: caught SIGTERM, shutting down
+[Fri Apr 20 02:29:07.604474 2018] [mpm_prefork:notice] [pid 3854] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 20 02:29:07.604558 2018] [core:notice] [pid 3854] AH00094: Command line: 'apache2'
+[Fri Apr 20 02:29:08.994558 2018] [mpm_prefork:notice] [pid 3854] AH00169: caught SIGTERM, shutting down
+[Fri Apr 20 02:29:11.182069 2018] [mpm_prefork:notice] [pid 4385] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 20 02:29:11.182147 2018] [core:notice] [pid 4385] AH00094: Command line: 'apache2'
+[Fri Apr 20 02:29:18.442554 2018] [core:info] [pid 4392] [client 10.240.1.50:37018] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://portfolio-firdauskotp.c9users.io/Main.html
+[Tue Apr 24 04:01:28.485002 2018] [core:warn] [pid 2736] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Apr 24 04:01:28.491395 2018] [mpm_prefork:notice] [pid 2736] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue Apr 24 04:01:28.491456 2018] [core:notice] [pid 2736] AH00094: Command line: 'apache2'
+[Tue Apr 24 04:01:29.705742 2018] [core:info] [pid 2748] [client 10.240.1.30:56678] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://portfolio-firdauskotp.c9users.io/Main.html
+[Fri Apr 27 02:27:31.897911 2018] [core:warn] [pid 3331] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Apr 27 02:27:31.906369 2018] [mpm_prefork:notice] [pid 3331] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 27 02:27:31.907256 2018] [core:notice] [pid 3331] AH00094: Command line: 'apache2'
+[Fri Apr 27 02:27:39.433384 2018] [core:info] [pid 3358] [client 10.240.1.65:59702] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://portfolio-firdauskotp.c9users.io/Main.html
+[Fri Apr 27 02:34:17.098701 2018] [mpm_prefork:notice] [pid 3331] AH00169: caught SIGTERM, shutting down
+[Fri Apr 27 02:34:18.416416 2018] [mpm_prefork:notice] [pid 3947] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 27 02:34:18.416559 2018] [core:notice] [pid 3947] AH00094: Command line: 'apache2'
+[Fri Apr 27 02:34:34.675778 2018] [core:info] [pid 3954] [client 10.240.1.65:35312] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://portfolio-firdauskotp.c9users.io/Main.html
+[Wed Jun 06 19:48:52.007028 2018] [core:warn] [pid 3153] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jun 06 19:48:52.011597 2018] [mpm_prefork:notice] [pid 3153] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Wed Jun 06 19:48:52.011654 2018] [core:notice] [pid 3153] AH00094: Command line: 'apache2'
+[Wed Jun 06 19:48:55.494616 2018] [core:info] [pid 3167] [client 10.240.1.65:55058] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://portfolio-firdauskotp.c9users.io/Main.html
+[Thu Jun 07 20:24:00.028677 2018] [core:warn] [pid 2697] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jun 07 20:24:00.033643 2018] [mpm_prefork:notice] [pid 2697] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Jun 07 20:24:00.033702 2018] [core:notice] [pid 2697] AH00094: Command line: 'apache2'
+[Thu Jun 07 20:29:20.014301 2018] [mpm_prefork:notice] [pid 2697] AH00169: caught SIGTERM, shutting down
+[Thu Jun 07 20:29:22.810974 2018] [mpm_prefork:notice] [pid 3314] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Jun 07 20:29:22.811053 2018] [core:notice] [pid 3314] AH00094: Command line: 'apache2'
+[Sun Sep 30 12:49:15.941899 2018] [core:warn] [pid 2562] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Sep 30 12:49:15.946141 2018] [mpm_prefork:notice] [pid 2562] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Sun Sep 30 12:49:15.946188 2018] [core:notice] [pid 2562] AH00094: Command line: 'apache2'
+[Sun Sep 30 12:50:24.131826 2018] [mpm_prefork:notice] [pid 2562] AH00169: caught SIGTERM, shutting down
+[Sun Sep 30 12:50:27.126346 2018] [mpm_prefork:notice] [pid 3181] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Sun Sep 30 12:50:27.126431 2018] [core:notice] [pid 3181] AH00094: Command line: 'apache2'
+[Sun Sep 30 12:51:22.874009 2018] [core:info] [pid 3188] [client 10.240.1.65:56448] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://portfolio-firdauskotp.c9users.io/Main.html
+[Sun Jan 27 12:38:52.647931 2019] [core:warn] [pid 2624] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jan 27 12:38:52.652990 2019] [mpm_prefork:notice] [pid 2624] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Sun Jan 27 12:38:52.653038 2019] [core:notice] [pid 2624] AH00094: Command line: 'apache2'
+[Sun Jan 27 12:39:00.195725 2019] [core:info] [pid 2637] [client 10.240.1.50:56072] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://portfolio-firdauskotp.c9users.io/Main.html
+[Sun May 26 07:18:47.717288 2019] [core:warn] [pid 2624] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun May 26 07:18:47.722876 2019] [mpm_prefork:notice] [pid 2624] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Sun May 26 07:18:47.722928 2019] [core:notice] [pid 2624] AH00094: Command line: 'apache2'
+[Sun May 26 07:19:38.242640 2019] [core:info] [pid 2639] [client 10.240.0.64:55586] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://portfolio-firdauskotp.c9users.io/Main.html
